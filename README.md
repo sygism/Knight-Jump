@@ -1,7 +1,7 @@
 # Knight Jump <img src="src/icons/kj_icon.png" align="right">
 
 Oh boy. Knight Jump is a platformer game created during a game designs course I took in Uni. It's a short game that features a knight jumping around platforms, trying to
-get to the top. The game is powered by the ![Godot engine](https://godotengine.org/).
+get to the top. The game is powered by the [Godot engine](https://godotengine.org/).
 
 ## Getting Started
 
